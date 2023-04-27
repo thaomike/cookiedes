@@ -1,5 +1,8 @@
 {
   "version": "2.3.0",
-  "url": "6b43c5ee-1999-4782-a310-779067fb360d",
-  "old": "7a8488c0-d1d7-42b3-b58b-4d87c7feff69"
+  "url": "6ae6dff8-c637-4b0c-a7c9-b3ce80714439",
+  "old": {
+    "url": "6b43c5ee-1999-4782-a310-779067fb360d", 
+    "isDeleted": true
+  }
 }
